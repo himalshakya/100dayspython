@@ -1,3 +1,8 @@
+'''
+Hangman game
+'''
+
+
 from art import logo, stages
 from hangman_words import word_list
 import random
